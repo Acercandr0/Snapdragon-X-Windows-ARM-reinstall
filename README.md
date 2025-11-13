@@ -29,6 +29,10 @@ I screwed up my laptop by doing a clean installation of Windows as if it were an
    - Look for **"WinPE Drivers"**
    - Download and extract to `C:\Drivers_WinPE`
 
+3. **Download normal Drivers:**
+   - Look for **"Windows 11 Drivers"**
+   - Download and extract to `C:\Drivers`
+
 ## Step 2: Create WinPE Bootable USB (First USB)
 
 1. **Install Required Tools:**
